@@ -1,0 +1,6 @@
+{
+  "name": "L'Histoire de France",
+  "description": "Manuel illustré et interactif d'Histoire de France : récits clairs, planches historiques commentées, fiches L'essentiel à retenir, frise chronologique et quiz corrigés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
